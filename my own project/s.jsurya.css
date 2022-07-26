@@ -1,0 +1,18 @@
+@import url('https://fonts.gooleapis.com/css?family=poppins:wght@400;500;600;700&display=swp');
+
+*{
+    argin: 0;
+    padding:0;
+    box-sizing: borger-box;
+    font-family: 'poppins', sans-serif;
+
+}
+a{
+    text-decoration: none;
+}
+.bounty{
+    width: 1600px;;
+    height: 1000px;
+    background:url(sj.jpg);
+    background-size:contain;
+}
